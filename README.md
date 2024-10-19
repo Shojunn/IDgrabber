@@ -1,9 +1,8 @@
 # IDGgrabber
 
-Social Media OSINT tool
-
 ## Description
 
+Usernames can change, IDs not really!
 This tool is meant to passively collect unique numerical IDs from social media accounts and display them in a user-friendly manner. It also allows recovering accounts when you have their ID.
 
 ## Requirements
